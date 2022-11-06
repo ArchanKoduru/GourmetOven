@@ -1,0 +1,13 @@
+
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(ëþÇéüÿÿÿÿ
+F
+java:S5411Ç"*Use the primitive boolean expression here.(ÆöÍ¾ûÿÿÿÿ
+c	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âšàˆ
+F
+java:S1481@"+Remove this unused "exists" local variable.(Á•Ñ ÿÿÿÿÿ
+Q
+java:S1874A"6Remove this use of "queryForObject"; it is deprecated.(¢‹Óòþÿÿÿÿ
+I
+java:S1172¸"-Remove this unused method parameter "userId".(¢ëŠÍùÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8Ÿ˜û¾Ä0

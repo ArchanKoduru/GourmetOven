@@ -1,0 +1,13 @@
+
+s
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "ingId".(¸ÜÙÙ
+l
+java:S1128"JRemove this unused import 'com.gourmetoven.gourmetapp.entity.Ingredients'.(€Ïïìıÿÿÿÿ8Ïê÷ëÃ0
+r
+java:S1128"PRemove this unused import 'org.springframework.jdbc.core.BeanPropertyRowMapper'.(ß©Å´ÿÿÿÿÿ8Ğê÷ëÃ0
+x
+java:S1128"[Remove this unused import 'org.springframework.jdbc.core.namedparam.MapSqlParameterSource'.(²Ñ8Ñê÷ëÃ0
+u
+java:S1128	"XRemove this unused import 'org.springframework.jdbc.core.namedparam.SqlParameterSource'.(Å›É8Òê÷ëÃ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Òê÷ëÃ0

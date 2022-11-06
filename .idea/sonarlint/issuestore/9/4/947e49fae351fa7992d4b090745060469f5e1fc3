@@ -1,0 +1,23 @@
+
+E
+java:S3740."/Provide the parametrized type for this generic.(™Õ®Ç
+C
+java:S1874!"-Remove this use of "query"; it is deprecated.(˜¢°±
+M
+java:S3985."7Remove this unused private "IngredientRowMapper" class.(™Õ®Ç
+P
+java:S18549"5Remove this useless assignment to local variable "g".(ñ‚¨ùıÿÿÿÿ
+A
+java:S14819"&Remove this unused "g" local variable.(ñ‚¨ùıÿÿÿÿ
+h
+java:S1128"RRemove this unused import 'org.springframework.jdbc.core.PreparedStatementSetter'.(×Åê
+q
+java:S1128	"[Remove this unused import 'org.springframework.jdbc.core.namedparam.MapSqlParameterSource'.(²Ñ
+q
+java:S1128"VRemove this unused import 'javax.xml.bind.annotation.adapters.CollapsedStringAdapter'.(Ó‚—ùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+N
+java:S10680"3Remove this unused "ingredientsList" private field.(µ¤à…ıÿÿÿÿ

@@ -1,0 +1,10 @@
+
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“»÷šûÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡°óÇúÿÿÿÿ
+e	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßõÁh
+_
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(‰Ê†Ôıÿÿÿÿ
+Y
+java:S5344?">Don't use the default "PasswordEncoder" relying on plain-text.(¸®‹Şüÿÿÿÿ
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8õÄŒÃ0
