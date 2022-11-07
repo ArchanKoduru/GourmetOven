@@ -94,7 +94,7 @@ public class GourmetOvenService {
     public RecipeResponseDto createArecipe(RecipeCreateRequestDto recipeCreateRequestDto, String name) throws Exception {
         //check user exists
         Integer userId = userRepository.getUserIdForUserName(name);
-        if(userId == null)
+        if(userId == null || userId <= 0)
         {
             throw new DataNotAvailableException("User doesn't exists");
         }
