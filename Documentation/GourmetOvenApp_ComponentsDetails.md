@@ -1,5 +1,5 @@
-# Components Description
-Have a brief look at components and its responsibilities to collaborate the GourmetApp requirements 
+# GourmetOven App Components Description
+Have a brief look at components and its responsibilities to collaborate the GourmetOven App requirements 
 
 ### RecipeController
 Entry point for Rest API calls where user can access once APP runs on configured port  
@@ -12,7 +12,7 @@ Enables Authentication for Users which allows restriction on CRUD operations for
 ### GourmetOvenService
 Service class which provides below responsibilities:
 
-* validates the rest API call input data receives as DTOs
+* Validates the rest API call input data receives as DTOs
 * Fetch data from DB based on search/requests received
 * Validates and verifies the operation is allowed for requested User
 * Respond back DTO data to end user
