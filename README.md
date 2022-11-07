@@ -1,5 +1,7 @@
 # GourmetOven
 Simple Java based recipe search app
+Open GourmetAppApplication class and click on run icon to start Application. 
+
 
 > curl -i --user user1:pass1 http://localhost:8088/recipe/all/ingredients <br/>
 > curl -i --user user1:pass1 http://localhost:8088/recipe/all/default/recipes
@@ -54,7 +56,7 @@ select * from users;
 }
 ```
 
-## All vegerarian recipes
+## All vegetarian recipes
 
 ```sql
 select recipe.recipe_id, recipe.recipe_name, recipe.servings, recipe.dish_type, recipe.creation_type, recipe.owning_user
@@ -95,5 +97,5 @@ INNER JOIN recipe_instruction_mapping ON recipe.recipe_id=recipe_instruction_map
 &check; Architecture <br/>
 &check; Design <br/>
 &check; Implementation <br/>
-_ Integration Test <br/>
-&cross; Unit Test <br/>
+&check; Integration Tests <br/>
+&check; Unit Tests <br/>
